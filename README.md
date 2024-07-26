@@ -1,0 +1,1 @@
+# Emozy-Translator
