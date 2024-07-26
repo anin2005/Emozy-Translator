@@ -73,5 +73,3 @@ Thank you for using the Emoji Translator!
 1. **Clone the Repository**: Adjust the URL to your actual GitHub repository link.
 2. **License**: Include a `LICENSE` file if you want to specify a license for your project.
 3. **Contact**: Replace `[your email]` with your actual contact information if desired.
-
-Feel free to customize the README further based on your project's needs!
